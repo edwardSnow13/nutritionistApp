@@ -1,0 +1,12 @@
+.favfood-body{
+    min-height: 40vh;
+    background-image: url("./images/nutritionist2.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.favfood-shade{
+    min-height: 40vh;
+    background-color: rgb(131, 130, 130,.5);
+}
